@@ -18,4 +18,4 @@ urlpatterns = [
 ]
 
 # 404
-handler404 = "django_404_project.views.page_not_found_view"
+handler404 = "lesson27.views.page_not_found_view"
